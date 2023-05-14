@@ -19,7 +19,7 @@ My Cad files
 
 All contributions are greatly appreciated!
 
-If you have a suggestion that would make projectpop better, 
+If you have a suggestion that would make this project better, 
 please fork the repo and create a pull request or open an issue.
 
 ## Credits
